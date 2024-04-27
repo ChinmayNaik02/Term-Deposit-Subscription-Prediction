@@ -9,12 +9,13 @@ This repository contains the code and resources for a machine learning project a
 
 The repository is organized as follows:
 
-- **bank-additional-full.csv**: The file that is used as dataset for this project
-- **Term Deposit Subscription Prediction.ipynb**: The jupyter notebook file for this project. It contains the all the code for the project 
+- **ipynb_checkpoints/**: Directory containing checkpoints of your notebook's state, allowing you to revert back to previous versions if needed.
 - **pkl files/**: Directory containing trained machine learning models saved as pickle (.pkl) files.
-- **requirements.txt**: Text file listing all the Python packages required to run the code.
 - **README.md**: Comprehensive documentation about the project, including project overview, setup instructions, usage guide, and acknowledgments.
+- **Term Deposit Subscription Prediction.ipynb**: The jupyter notebook file for this project. It contains the all the code for the project 
+- **bank-additional-full.csv**: The file that is used as dataset for this project
 - **bank-additional-names.txt**: File containing the information about the dataset
+- **requirements.txt**: Text file listing all the Python packages required to run the code.
 
 ## Setup Instructions
 
