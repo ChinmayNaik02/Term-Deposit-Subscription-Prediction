@@ -29,7 +29,7 @@ To set up the project environment, follow these steps:
 2. Navigate to the project directory:
    
    ```bash
-   cd Term Deposit Subscription Prediction
+   cd term-deposit-subscription-prediction
    
 3. Create a virtual environment (optional but recommended):
    
