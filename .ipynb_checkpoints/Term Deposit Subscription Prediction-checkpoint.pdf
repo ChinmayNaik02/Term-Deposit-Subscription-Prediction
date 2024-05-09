@@ -58,6 +58,7 @@
     "### **Key Steps:**\n",
     "\n",
     "**Exploratory Data Analysis (EDA)**: The notebook begins with exploratory data analysis to gain insights into the dataset's characteristics, including data visualization and statistical summaries. This step helps understand the distribution of features, identify correlations, and detect potential patterns.\n",
+    "Feature Engineering: Next, feature engineering techniques are applied to preprocess the data and create new features that can improve the performance of predictive models. This includes handling missing values, encoding categorical variables, scaling numerical features, and more.\n",
     "\n",
     "**Data Preprocessing:** Before training the machine learning models, the data undergoes preprocessing steps to handle missing values, encode categorical variables, scale numerical features, and more. This ensures that the data is properly prepared for model training and improves the model's performance.\n",
     "\n",
