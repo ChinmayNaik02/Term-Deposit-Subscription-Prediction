@@ -57,7 +57,7 @@ The project can be used for the following purposes:
 - Building machine learning models using various algorithms such as logistic regression, random forest, support vector machines, XGBoost, and Naive Bayes.
 - Evaluating model performance using metrics like accuracy, precision, recall, and F1-score.
 - Saving trained models for future use and deployment.
-
+  
 Refer to the Jupyter notebook for detailed code and explanations.
 
 
